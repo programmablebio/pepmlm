@@ -18,6 +18,7 @@ model = AutoModelForMaskedLM.from_pretrained("TianlaiChen/PepMLM-650M")
 ```
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
+# License
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
@@ -27,3 +28,14 @@ This work is licensed under a
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 Contact: pranam.chatterjee@duke.edu
+
+# Citation
+'''
+@article{chen2023pepmlm,
+  title={PepMLM: Target Sequence-Conditioned Generation of Peptide Binders via Masked Language Modeling},
+  author={Chen, Tianlai and Pertsemlidis, Sarah and Kavirayuni, Venkata Srikar and Vure, Pranay and Pulugurta, Rishab and Hsu, Ashley and Vincoff, Sophia and Yudistyra, Vivian and Hong, Lauren and Wang, Tian and others},
+  journal={ArXiv},
+  year={2023},
+  publisher={arXiv}
+}
+'''
