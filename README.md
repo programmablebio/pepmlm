@@ -30,7 +30,7 @@ This work is licensed under a
 Contact: pranam.chatterjee@duke.edu
 
 # Citation
-'''
+```
 @article{chen2023pepmlm,
   title={PepMLM: Target Sequence-Conditioned Generation of Peptide Binders via Masked Language Modeling},
   author={Chen, Tianlai and Pertsemlidis, Sarah and Kavirayuni, Venkata Srikar and Vure, Pranay and Pulugurta, Rishab and Hsu, Ashley and Vincoff, Sophia and Yudistyra, Vivian and Hong, Lauren and Wang, Tian and others},
@@ -38,4 +38,4 @@ Contact: pranam.chatterjee@duke.edu
   year={2023},
   publisher={arXiv}
 }
-'''
+```
