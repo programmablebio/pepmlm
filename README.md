@@ -9,6 +9,14 @@ Check out our [manuscript](https://arxiv.org/abs/2310.03842) on the *arXiv*!
 - Demo: HuggingFace Space Demo [Link](https://huggingface.co/spaces/TianlaiChen/PepMLM).
 - Colab Notebook: [Link](https://colab.research.google.com/drive/1u0i-LBog_lvQ5YRKs7QLKh_RtI-tV8qM?usp=sharing)
 
+# Apply for Access
+As of February 2024, the model has been gated on HuggingFace. If you wish to use our model, please visit our page on the HuggingFace site ([Link](https://huggingface.co/ChatterjeeLab/PepMLM-650M)) and submit your access request there. An active HuggingFace account is necessary for both the application and subsequent modeling use. Approval of requests may take a few days, as we are a small lab with a manual approval process.
+
+Once your request is approved, please input your personal access token below to begin using this notebook. We appreciate your understanding.
+
+- How to find your access token: https://huggingface.co/docs/hub/en/security-tokens
+
+# Load Model
 ```
 # Load model directly
 from transformers import AutoTokenizer, AutoModelForMaskedLM
