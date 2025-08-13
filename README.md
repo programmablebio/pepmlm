@@ -8,6 +8,7 @@ Check out our [manuscript](https://arxiv.org/abs/2310.03842) on the *arXiv*!
 - HuggingFace: [Link](https://huggingface.co/TianlaiChen/PepMLM-650M)
 - Demo: HuggingFace Space Demo [Link](https://huggingface.co/spaces/TianlaiChen/PepMLM).
 - Colab Notebook: [Link](https://colab.research.google.com/drive/1u0i-LBog_lvQ5YRKs7QLKh_RtI-tV8qM?usp=sharing)
+- Nature Biotechnology: [Link](https://www.nature.com/articles/s41587-025-02761-2)
 
 # Load Model
 ```
