@@ -9,13 +9,6 @@ Check out our [manuscript](https://arxiv.org/abs/2310.03842) on the *arXiv*!
 - Demo: HuggingFace Space Demo [Link](https://huggingface.co/spaces/TianlaiChen/PepMLM).
 - Colab Notebook: [Link](https://colab.research.google.com/drive/1u0i-LBog_lvQ5YRKs7QLKh_RtI-tV8qM?usp=sharing)
 
-# Apply for Access
-As of February 2024, the model has been gated on HuggingFace. If you wish to use our model, please visit our page on the HuggingFace site ([Link](https://huggingface.co/ChatterjeeLab/PepMLM-650M)) and submit your access request there. An active HuggingFace account is necessary for both the application and subsequent modeling use. Approval of requests may take a few days, as we are a small lab with a manual approval process.
-
-Once your request is approved, you will need your personal access token to begin using this notebook. We appreciate your understanding.
-
-- How to find your access token: https://huggingface.co/docs/hub/en/security-tokens
-
 # Load Model
 ```
 # Load model directly
@@ -35,15 +28,14 @@ This work is licensed under a
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
-Contact: pranam.chatterjee@duke.edu
+Contact: pranam@seas.upenn.edu
 
 # Citation
 ```
-@article{chen2023pepmlm,
-  title={PepMLM: Target Sequence-Conditioned Generation of Peptide Binders via Masked Language Modeling},
-  author={Chen, Tianlai and Pertsemlidis, Sarah and Kavirayuni, Venkata Srikar and Vure, Pranay and Pulugurta, Rishab and Hsu, Ashley and Vincoff, Sophia and Yudistyra, Vivian and Hong, Lauren and Wang, Tian and others},
-  journal={ArXiv},
-  year={2023},
-  publisher={arXiv}
+@article{chen2025pepmlm,
+  title={Target sequence-conditioned design of peptide binders using masked language modeling},
+  author={Chen, Tianlai and Quinn, Zachary and Dumas, Madeleine and Peng, Christina and Hong, Lauren and Lopez-Gonzalez, Moises and Mestre, Alexander and Watson, Rio and Vincoff, Sophia and Zhao, Lin and Wu, Jianli and Stavrand, Audrey and Schaepers-Cheu, Mayumi and Wang, Tian Zi and Srijay, Divya and Monticello, Connor and Vure, Pranay and Pulugurta, Rishab and Pertsemlidis, Sarah and Kholina, Kseniia and Goel, Shrey and DeLisa, Matthew P. and Chi, Jen-Tsan Ashley and Truant, Ray and Aguilar, Hector C. and Chatterjee, Pranam},
+  journal={Nature Biotechnology},
+  year={2025}
 }
 ```
