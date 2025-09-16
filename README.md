@@ -1,4 +1,10 @@
 # <img src="logo.png" alt="Logo" width="100" height="45"/>: Target Sequence-Conditioned Generation of Peptide Binders via Masked Language Modeling 
+
+[![arXiv](https://img.shields.io/badge/arXiv-2310.03842-b31b1b.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2310.03842)
+[![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-yellow?logo=huggingface&logoColor=white)](https://huggingface.co/TianlaiChen/PepMLM-650M)
+[![Open In Colab](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1u0i-LBog_lvQ5YRKs7QLKh_RtI-tV8qM?usp=sharing)
+[![Nature](https://img.shields.io/badge/Nature%20Biotechnology-green?logo=nature&logoColor=white)](https://www.nature.com/articles/s41587-025-02761-2)
+
 In this work, we introduce **PepMLM**, a purely target sequence-conditioned de novo generator of linear peptide binders. By employing a novel masking strategy that uniquely positions cognate peptide sequences at the terminus of target protein sequences, PepMLM tasks the state-of-the-art ESM-2 pLM to fully reconstruct the binder region, achieving low perplexities matching or improving upon previously-validated peptide-protein sequence pairs. After successful *in silico* benchmarking with AlphaFold-Multimer, we experimentally verify PepMLM's efficacy via fusion of model-derived peptides to E3 ubiquitin ligase domains, demonstrating endogenous degradation of target substrates in cellular models. In total, PepMLM enables the generative design of candidate binders to any target protein, without the requirement of target structure, empowering downstream programmable proteome editing applications.
 
 ![Pepmlm Image](pepmlm.png)
