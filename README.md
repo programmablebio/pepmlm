@@ -33,10 +33,12 @@ Contact: pranam@seas.upenn.edu
 
 # Citation
 ```
-@article{chen2025pepmlm,
+@article{chen2025target,
   title={Target sequence-conditioned design of peptide binders using masked language modeling},
-  author={Chen, Leo Tianlai and Quinn, Zachary and Dumas, Madeleine and Peng, Christina and Hong, Lauren and Lopez-Gonzalez, Moises and Mestre, Alexander and Watson, Rio and Vincoff, Sophia and Zhao, Lin and Wu, Jianli and Stavrand, Audrey and Schaepers-Cheu, Mayumi and Wang, Tian Zi and Srijay, Divya and Monticello, Connor and Vure, Pranay and Pulugurta, Rishab and Pertsemlidis, Sarah and Kholina, Kseniia and Goel, Shrey and DeLisa, Matthew P. and Chi, Jen-Tsan Ashley and Truant, Ray and Aguilar, Hector C. and Chatterjee, Pranam},
+  author={Chen, Leo Tianlai and Quinn, Zachary and Dumas, Madeleine and Peng, Christina and Hong, Lauren and Lopez-Gonzalez, Moises and Mestre, Alexander and Watson, Rio and Vincoff, Sophia and Zhao, Lin and others},
   journal={Nature Biotechnology},
-  year={2025}
+  pages={1--9},
+  year={2025},
+  publisher={Nature Publishing Group US New York}
 }
 ```
