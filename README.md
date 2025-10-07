@@ -26,6 +26,10 @@ model = AutoModelForMaskedLM.from_pretrained("TianlaiChen/PepMLM-650M")
 ```
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
+# GitHub Isusse
+
+For a faster response, please tag either @Leo-T-Zang or @pranamanam. Thank you!
+
 # License
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
